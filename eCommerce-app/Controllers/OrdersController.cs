@@ -22,7 +22,7 @@ namespace eCommerce_app.Controllers
         public async Task<IActionResult> Index()
         {
             string userId = "";
-            
+            string userRole = User.FindFirstValue(ClaimTypes.Role);
 
             var orders = await _ordersService.GetOrdersByUserIdAndRoleAsync(userId);
             return View(orders);
