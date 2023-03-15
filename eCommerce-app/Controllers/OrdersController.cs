@@ -63,10 +63,10 @@ namespace eCommerce_app.Controllers
         public async Task<IActionResult> CompleteOrder()
         {
             var items = _shoppingCart.GetShoppingCartItems();
-            //string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            //string userEmailAddress = User.FindFirstValue(ClaimTypes.Email);
-            string userId = "";
-            string userEmailAddress = "";
+            string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            string userEmailAddress = User.FindFirstValue(ClaimTypes.Email);
+            //string userId = "";
+            //string userEmailAddress = "";
 
             await _ordersService.StoreOrderAsync(items, userId, userEmailAddress);
             await _shoppingCart.ClearShoppingCartAsync();
