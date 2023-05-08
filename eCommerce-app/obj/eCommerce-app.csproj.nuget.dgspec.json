@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zaidf\\Desktop\\application\\eCommerce-app\\eCommerce-app\\eCommerce-app.csproj": {}
+    "C:\\Users\\Ahmed\\Source\\Repos\\vape-shop1\\eCommerce-app\\eCommerce-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zaidf\\Desktop\\application\\eCommerce-app\\eCommerce-app\\eCommerce-app.csproj": {
+    "C:\\Users\\Ahmed\\Source\\Repos\\vape-shop1\\eCommerce-app\\eCommerce-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zaidf\\Desktop\\application\\eCommerce-app\\eCommerce-app\\eCommerce-app.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed\\Source\\Repos\\vape-shop1\\eCommerce-app\\eCommerce-app.csproj",
         "projectName": "eCommerce-app",
-        "projectPath": "C:\\Users\\zaidf\\Desktop\\application\\eCommerce-app\\eCommerce-app\\eCommerce-app.csproj",
-        "packagesPath": "C:\\Users\\zaidf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zaidf\\Desktop\\application\\eCommerce-app\\eCommerce-app\\obj\\",
+        "projectPath": "C:\\Users\\Ahmed\\Source\\Repos\\vape-shop1\\eCommerce-app\\eCommerce-app.csproj",
+        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed\\Source\\Repos\\vape-shop1\\eCommerce-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zaidf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
