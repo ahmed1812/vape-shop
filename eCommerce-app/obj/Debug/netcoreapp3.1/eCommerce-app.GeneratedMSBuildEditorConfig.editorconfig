@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = eCommerce_app
 build_property.ProjectDir = C:\Users\Ahmed\Source\Repos\vape-shop1\eCommerce-app\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

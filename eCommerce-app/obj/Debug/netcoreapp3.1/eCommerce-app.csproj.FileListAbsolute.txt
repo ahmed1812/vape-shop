@@ -376,3 +376,4 @@ C:\Users\Ahmed\Source\Repos\vape-shop1\eCommerce-app\obj\Debug\netcoreapp3.1\eCo
 C:\Users\Ahmed\Source\Repos\vape-shop1\eCommerce-app\obj\Debug\netcoreapp3.1\eCommerce-app.dll
 C:\Users\Ahmed\Source\Repos\vape-shop1\eCommerce-app\obj\Debug\netcoreapp3.1\eCommerce-app.pdb
 C:\Users\Ahmed\Source\Repos\vape-shop1\eCommerce-app\obj\Debug\netcoreapp3.1\eCommerce-app.genruntimeconfig.cache
+C:\Users\Ahmed\Source\Repos\vape-shop1\eCommerce-app\obj\Debug\netcoreapp3.1\eCommerce-app.sourcelink.json

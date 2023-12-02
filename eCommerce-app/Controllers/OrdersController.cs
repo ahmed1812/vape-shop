@@ -27,6 +27,7 @@ namespace eCommerce_app.Controllers
             var orders = await _ordersService.GetOrdersByUserIdAndRoleAsync(userId, userRole);
             return View(orders);
         }
+        // test
         public IActionResult ShoppingCart()
         {
             var items = _shoppingCart.GetShoppingCartItems();
