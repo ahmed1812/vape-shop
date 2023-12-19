@@ -8,7 +8,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace eCommerce_app.Models
 {
     public class Movie : IEntityBase
-    {
+    {  
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }

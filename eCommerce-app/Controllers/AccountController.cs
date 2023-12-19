@@ -19,6 +19,10 @@ namespace eCommerce_app.Controllers
             _signInManager = signInManager;
             _context = context;
         }
+        public async Task<IActionResult> Users()
+        {
+            return View(users);
+        }
         public IActionResult Login() => View(new LoginVM());
         [HttpPost]
         public async Task<IActionResult> Login(LoginVM loginVM)

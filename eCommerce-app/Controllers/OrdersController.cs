@@ -50,6 +50,7 @@ namespace eCommerce_app.Controllers
             }
             return RedirectToAction(nameof(ShoppingCart));
         }
+        // RemoveItemFromShoppingCart 
         public async Task<IActionResult> RemoveItemFromShoppingCart(int id)
         {
             var item = await _moviesService.GetMovieByIdAsync(id);
