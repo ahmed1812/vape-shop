@@ -21,7 +21,7 @@ namespace eCommerce_app.Controllers
         }
         public async Task<IActionResult> Users()
         {
-            return View(User).GetType();
+            return View(User).ToString();
         }
         public IActionResult Login() => View(new LoginVM());
         [HttpPost]
