@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\data\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\data\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\data\\cart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\data\\cart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\data\\services\\icinemasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\data\\services\\icinemasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\data\\services\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\data\\services\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|c:\\users\\ahmed\\source\\repos\\vape-shop1\\ecommerce-app\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B790295-5B38-460A-A98E-327C7C50EA26}|eCommerce-app\\eCommerce-app.csproj|solutionrelative:ecommerce-app\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "eCommerce-app\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T02:03:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "eCommerce-app\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T01:43:37.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Data\\Cart\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Data\\Cart\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Data\\Cart\\ShoppingCart.cs",
+              "RelativeToolTip": "eCommerce-app\\Data\\Cart\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T00:53:03.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "eCommerce-app\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-21T04:09:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\appsettings.json",
+              "RelativeDocumentMoniker": "eCommerce-app\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\appsettings.json",
+              "RelativeToolTip": "eCommerce-app\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-03-21T04:11:06.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Data\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Data\\Services\\OrdersService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Data\\Services\\OrdersService.cs",
+              "RelativeToolTip": "eCommerce-app\\Data\\Services\\OrdersService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-21T04:09:09.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Models\\Movie.cs",
+              "RelativeToolTip": "eCommerce-app\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-21T04:09:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICinemasService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Data\\Services\\ICinemasService.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Data\\Services\\ICinemasService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Data\\Services\\ICinemasService.cs",
+              "RelativeToolTip": "eCommerce-app\\Data\\Services\\ICinemasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-21T04:09:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IActorsService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Data\\Services\\IActorsService.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Data\\Services\\IActorsService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Data\\Services\\IActorsService.cs",
+              "RelativeToolTip": "eCommerce-app\\Data\\Services\\IActorsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-21T04:09:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "eCommerce-app\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "eCommerce-app\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-03-21T04:09:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eCommerce-app\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "eCommerce-app\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-03-21T04:09:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "eCommerce-app\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "eCommerce-app\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAA8AAABAMzMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-03-21T04:09:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "eCommerce-app\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "eCommerce-app\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAB8AAACAy8zMzMwnwD8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-03-21T04:09:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Models\\Actor.cs",
+              "RelativeToolTip": "eCommerce-app\\Models\\Actor.cs",
+              "ViewState": "AQIAABEAAAAAy8zMzMwEwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-21T04:09:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Actor_Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Models\\Actor_Movie.cs",
+              "RelativeDocumentMoniker": "eCommerce-app\\Models\\Actor_Movie.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Models\\Actor_Movie.cs",
+              "RelativeToolTip": "eCommerce-app\\Models\\Actor_Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-21T04:09:10.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
