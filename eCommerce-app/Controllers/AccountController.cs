@@ -21,7 +21,7 @@ namespace eCommerce_app.Controllers
         }
         public async Task<IActionResult> Users()
         {
-            return View(User).Equals();
+            return View(User).Equals().CompareTo();
         }
         public IActionResult Login() => View(new LoginVM());
         [HttpPost]
