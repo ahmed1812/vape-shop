@@ -88,7 +88,7 @@
               "RelativeDocumentMoniker": "eCommerce-app\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\vape-shop1\\eCommerce-app\\Controllers\\AccountController.cs",
               "RelativeToolTip": "eCommerce-app\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAnAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-19T02:03:28.314Z",
               "EditorCaption": ""
@@ -103,8 +103,7 @@
               "RelativeToolTip": "eCommerce-app\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-19T01:43:37.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-19T01:43:37.058Z"
             },
             {
               "$type": "Document",
@@ -140,7 +139,8 @@
               "RelativeToolTip": "eCommerce-app\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2023-03-21T04:11:06.926Z"
+              "WhenOpened": "2023-03-21T04:11:06.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
